@@ -1,0 +1,12 @@
+{
+  "company": {
+    "department": {
+      "team": {
+        "member": {
+          "name": "John Doe",
+          "destination": "San Francisco"
+        }
+      }
+    }
+  }
+}
